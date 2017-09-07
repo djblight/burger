@@ -1,0 +1,26 @@
+{
+  "name": "mysql-sequelize-heroku",
+  "version": "1.0.0",
+  "description": "burger eating app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djblight/burger.git"
+  },
+  "author": "David Blight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djblight/burger/issues"
+  },
+  "homepage": "https://github.com/djblight/burger#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.9",
+    "mysql": "^2.14.1"
+  }
+}

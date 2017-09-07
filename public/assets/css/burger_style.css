@@ -1,0 +1,13 @@
+* {
+        text-align: center;
+    }
+    body{
+        background-color: #2DA7E8;
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 14px;
+        line-height: 1.5;
+        color: #635B5B;
+    }
+    .jumbotron {
+        background-color: #BAB5B5;
+    }
